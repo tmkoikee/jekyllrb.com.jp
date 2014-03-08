@@ -1,0 +1,3 @@
+[submodule "original_docs"]
+	path = original_docs
+	url = https://github.com/jekyll/jekyll.git
